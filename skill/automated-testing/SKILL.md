@@ -3,6 +3,14 @@ name: automated-testing
 description: >
   自动化测试 + 模拟人类实操验证。在完成代码变更后执行。先自动跑测试修复失败，
   再以真实用户视角执行端到端操作验证，确保代码无回归缺陷且功能可正常使用。
+version: 1.0.0
+tags:
+  - testing
+  - quality
+  - workflow
+author:
+  name: annkirin
+  url: https://github.com/annkirin
 ---
 
 # Automated Testing Skill
