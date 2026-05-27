@@ -3,6 +3,14 @@ name: brainstorming
 description: >
   通用头脑风暴流程。在开始编码、设计架构、解决复杂问题、规划功能之前使用。
   通过多角度发散思考 → 归类整理 → 聚焦决策的完整流程，帮助理清思路。
+version: 1.0.0
+tags:
+  - planning
+  - productivity
+  - workflow
+author:
+  name: annkirin
+  url: https://github.com/annkirin
 ---
 
 # Brainstorming Skill
